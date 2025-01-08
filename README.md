@@ -22,4 +22,4 @@ python3 main.py
 
 Após isso já é possível rodar o código tranquilamente no próprio terminal.
 
-Você pode [baixar](https://github.com/pedrorfb/biblioteca/archive/refs/heads/main.zip) aqui
+Você pode [baixar](https://github.com/pedrorfb/biblioteca/archive/refs/heads/main.zip) o código aqui
