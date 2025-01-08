@@ -1,0 +1,177 @@
+[
+    {
+        "nome": "Senhor dos An\u00e9is",
+        "id": "1",
+        "autor": "J.R.R. Tolkien",
+        "disponibilidade": false,
+        "emprestado_por": "1"
+    },
+    {
+        "nome": "1984",
+        "id": "2",
+        "autor": "George Orwell",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "Cem Anos de Solid\u00e3o",
+        "id": "3",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "O Morro dos Ventos Uivantes",
+        "id": "4",
+        "autor": "Emily Bront\u00eb",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "Moby Dick",
+        "id": "5",
+        "autor": "Herman Melville",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "Neuromancer",
+        "id": "6",
+        "autor": "William Gibson",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "A Culpa \u00e9 das Estrelas",
+        "id": "7",
+        "autor": "John Green",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "O Homem Invis\u00edvel",
+        "id": "8",
+        "autor": "H.G. Wells",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "O Pequeno Pr\u00edncipe",
+        "id": "9",
+        "autor": "Antoine de Saint-Exup\u00e9ry",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "O C\u00f3digo Da Vinci",
+        "id": "10",
+        "autor": "Dan Brown",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "O Pistoleiro",
+        "id": "11",
+        "autor": "Stephen King",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "Ulisses",
+        "id": "12",
+        "autor": "James Joyce",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "A Ilha do Tesouro",
+        "id": "13",
+        "autor": "Robert Louis Stevenson",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "Percy Jackson e o Ladr\u00e3o de Raios",
+        "id": "14",
+        "autor": "Rick Riordan",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "Dom Quixote",
+        "id": "15",
+        "autor": "Miguel de Cervantes",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "A Dan\u00e7a dos Drag\u00f5es",
+        "id": "16",
+        "autor": "George R.R. Martin",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "Os Tr\u00eas Mosqueteiros",
+        "id": "17",
+        "autor": "Alexandre Dumas",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "O Alquimista",
+        "id": "18",
+        "autor": "Paulo Coelho",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "Admir\u00e1vel Mundo Novo",
+        "id": "19",
+        "autor": "Aldous Huxley",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "Orgulho e Preconceito",
+        "id": "20  ",
+        "autor": "Jane Austen",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "Dr\u00e1cula",
+        "id": "21",
+        "autor": "Bram Stoker",
+        "disponibilidade": false,
+        "emprestado_por": "1"
+    },
+    {
+        "nome": "Frankenstein",
+        "id": "22",
+        "autor": "Mary Shelley",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "O Grande Gatsby",
+        "id": "23",
+        "autor": "F. Scott Fitzgerald",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "Crime e Castigo",
+        "id": "24",
+        "autor": "Fyodor Dostoyevsky",
+        "disponibilidade": true,
+        "emprestado_por": null
+    },
+    {
+        "nome": "O Senhor das Moscas",
+        "id": "25",
+        "autor": "William Golding",
+        "disponibilidade": true,
+        "emprestado_por": null
+    }
+]
